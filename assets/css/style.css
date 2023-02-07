@@ -1,0 +1,27 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px
+}
+header nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    
+}
+header nav {
+    
+    width: 50%
+
+}
+section {
+    border: 1px solid green;
+    height: 20vh;
+    display: flex
+}
+section div {
+    border: 1px solid blue
+}
+.section-title {
+    width: 25%
+}
