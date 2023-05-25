@@ -28,8 +28,7 @@ html {
 }
 
 .hero {
-  background-image: url(/images/background.jpg);
-  background: url("/images/background.jpg") no-repeat;
+  background: linear-gradient(174deg, #2452a7, #3b72e0 20%, #5183e0, #5183e9 30%, #dadaec 96%);
   background-attachment: fixed;
   background-size: cover;
   color: white;
